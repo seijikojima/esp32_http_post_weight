@@ -4,4 +4,4 @@
 * just read value from HX711
 
 ## next
-* adjust offset
+* callibration is not yet completed, probablly a type of load cell is not proper.
