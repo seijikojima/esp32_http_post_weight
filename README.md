@@ -2,7 +2,9 @@
 
 ## done
 * just read value from HX711
+* callibration
+* I broke two cooking scalings
 
 ## next
-* callibration is not yet completed, probablly a type of load cell is not proper.
-* I broke two scalings for cooking.
+* combine temperature and humidity sensor
+* three cooking scales
