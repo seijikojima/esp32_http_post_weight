@@ -5,4 +5,4 @@
 
 ## next
 * callibration is not yet completed, probablly a type of load cell is not proper.
-* I broke two scaling for cooking.
+* I broke two scalings for cooking.
